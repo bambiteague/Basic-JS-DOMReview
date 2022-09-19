@@ -59,6 +59,17 @@ four different postitions for this argument ^
 //just a sample of what's available. The docs contain reference to more types of events.
 // var button = document.querySelector(".myButton");
 
+// function click1() {
+//   console.log("Click me!!");
+// }
+// function click2() {
+//   console.log("Click me AGAIN!!");
+//   button.removeEventListener("click", click1);
+// }
+// button.addEventListener("click", click1);
+// button.addEventListener("click", click2);
+//triggered both events at once ^
+
 // button.onclick = function () {
 //   console.log("I was clicked!!");
 // };
