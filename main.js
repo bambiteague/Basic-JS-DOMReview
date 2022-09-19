@@ -56,7 +56,17 @@ four different postitions for this argument ^
 //parent.removeChild(p)
 
 // ----- EVENTS  ---->
-// -----   ---->
-// -----   ---->
-// -----   ---->
-// -----   ---->
+//just a sample of what's available. The docs contain reference to more types of events.
+// var button = document.querySelector(".myButton");
+
+// button.onclick = function () {
+//   console.log("I was clicked!!");
+// };
+
+// button.onmouseover = function () {
+//   console.log("Mouse went over me!");
+// };
+
+// button.ondblclick = function () {
+//   console.log("I was double clicked!");
+// };
